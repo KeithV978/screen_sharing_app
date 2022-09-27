@@ -2,7 +2,7 @@ import {useState, useEffect, useCallback, useRef} from 'react'
 import styled from 'styled-components';
 
 import {io} from 'socket.io-client';
-const socket = io("http://loaclhost:4000");
+const socket = io("https://copy-screen.herokuapp.com/");
 
 const Popup = styled.div`
     width: 80%;

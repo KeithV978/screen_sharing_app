@@ -3,6 +3,7 @@ Give the user the ability to browse a webpage through your system and feel like 
 
 # TOOLS.
 a) Puppeteer
-b) Express
+b) Express.js
 c) Socket.io
-
+d) React.js
+e) Node.js
